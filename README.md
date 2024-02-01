@@ -1,6 +1,6 @@
 # SpaceStation
 
-### [논문 구현 및 게임 영상](https://www.youtube.com/watch?v=DU3mkiz4B9g) 
+### [논문 구현 및 게임 영상](https://youtu.be/pssJq4hzcQU) 
 
 게임 파일 : Release에서 설치하실 수 있습니다.
 
