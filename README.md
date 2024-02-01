@@ -1,8 +1,6 @@
 # SpaceStation
 
-논문 구현 영상 : [https://www.youtube.com/watch?v=DU3mkiz4B9g](https://www.youtube.com/watch?v=DU3mkiz4B9g) 
-
-게임 영상 : [https://www.youtube.com/watch?v=vEbmR1M-XIA](https://www.youtube.com/watch?v=vEbmR1M-XIA)
+### [논문 구현 및 게임 영상](https://www.youtube.com/watch?v=DU3mkiz4B9g) 
 
 게임 파일 : Release에서 설치하실 수 있습니다.
 
@@ -41,7 +39,7 @@ Real-Time Fracturing은 실시간으로 물체가 파괴되는 현상을 계산�
 
 이후에, 3D 메시에 적용할 수 있는 다양한 파쇄 기법들에 대해 공부하고 구현해서 더욱 현실적이고 파괴 가능한 환경을 가진 게임을 만들고자 한다.
 
-<hr/>
+---
 
 ## 적용해서 만든 게임
 총알 충돌 지점 근처 점들을 사용한 Real-time Voronoi Fracturing 기술을 사용하여 만든 게임 Space Station입니다.
