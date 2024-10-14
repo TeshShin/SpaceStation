@@ -12,7 +12,11 @@ Real-time Voronoi Fracturing
 - Real Time Mesh Fracturing Using 2D Voronoi Diagrams
 
 ## 과제 설계 배경 및 필요성
-Real-Time Fracturing은 실시간으로 물체가 파괴되는 현상을 계산하고 시뮬레이션하는 기술이다. 게임 분야에서 기존에는 성능적인 문제로 인해 미리 파쇄 패턴을 정의해두고 시뮬레이션하는 Pre-Fracturing을 주로 사용했다. Pre-Fracturing은 파괴 시뮬레이션을 진행할 때, 한정된 상황밖에 연출이 불가능하다. 그러나 Real-Time Fracturing은 실시간으로 사용자와 인터렉티브하게 정보를 공유하며 보다 더 실제같은 파괴 시뮬레이션 경험을 사용자에게 제공할 수 있다. 또한, Real-Time Fracturing을 구현하고 적용시키기에 충분한 하드웨어와 소프트웨어들이 개발되고 있으며, 이에 대한 실험적인 적용 사례들도 조금씩 등장하고 있다. 따라서 이번 과제를 통해 Real-Time Fracturing을 구현하고 이에 대한 프로세스를 개선하여 더 발전시킬 수 있는 방법을 모색해보고자 한다.
+Real-Time Fracturing은 물체의 파괴를 실시간으로 계산하고 시뮬레이션하는 기술이다.
+
+기존 게임에서는 성능 제약으로 미리 정의된 파쇄 패턴을 사용하는 Pre-Fracturing이 주로 사용되었으나, 이는 제한된 상황만을 연출할 수 있었다. 반면, Real-Time Fracturing은 사용자와 실시간으로 상호작용하며 더 현실감 있는 파괴 시뮬레이션을 제공한다. 
+
+최근, 이를 구현할 수 있는 하드웨어와 소프트웨어가 발전하면서 실험적 적용 사례도 등장하고 있다. 이번 과제에서는 Real-Time Fracturing의 구현과 프로세스 개선을 모색하고자 한다.
 
 ## 과제 주요내용
    1) 타겟 논문에 대한 이해 : 타겟 논문에서 제안하는 Real-Time Fracturing 기술의 핵심 개념과 아이디어, 사용한 소프트웨어와 알고리즘을 상세히 분석한다.
